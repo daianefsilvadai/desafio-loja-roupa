@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #b6649a;
+    padding: 40px;
+}
+
+li {
+    display: inline-block;
+    margin: 0 100px 0 100px;
+    color: #ffffff;
+    padding: 6px;
+}
+
+img {
+    width: 270px;
+    margin-right: 12px;
+}
+
+.produtos {
+    display: inline-block;
+    margin: 50px 40px 40px 40px;
+}
+
+h3 {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.form-tamanho {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color: #ccc;
+    padding: 2px 5px;
+}
+
+h2 {
+    font-size: 17px;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.cadastro {
+    margin: 0 5px 0 30px;
+}
+
+input {
+    background-color: #ccc;
+}
+
+.button-formulario {
+    border-color: #ccc;
+    display: inline-block;
+    padding: 2px 5px;
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+
+footer {
+    background-color: #da9bc5;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+}
