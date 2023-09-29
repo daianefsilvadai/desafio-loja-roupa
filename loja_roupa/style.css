@@ -5,46 +5,48 @@
 }
 
 header {
-    background-color: #b6649a;
-    padding: 40px;
+    background-color: #463239;
+    padding: 30px;
+    width: 1290px;
+    
 }
 
 li {
     display: inline-block;
-    margin: 0 100px 0 100px;
-    color: #ffffff;
-    padding: 6px;
+    margin: 0 80px;
+    color: white;
+    padding: 5px;
 }
 
 img {
-    width: 270px;
+    width: 220px;
     margin-right: 12px;
 }
 
 .produtos {
     display: inline-block;
-    margin: 50px 40px 40px 40px;
+    margin: 30px 30px 20px 50px;
 }
 
 h3 {
     margin-top: 20px;
-    margin-left: 100px;
+    margin-left: 70px;
 }
 
 .form-tamanho {
     margin-top: 20px;
-    margin-left: 70px;
+    margin-left: 40px;
 }
 
 button {
     margin-top: 20px;
-    margin-left: 100px;
+    margin-left: 70px;
     background-color: #ccc;
     padding: 2px 5px;
 }
 
 h2 {
-    font-size: 17px;
+    font-size: 16px;
     text-transform: uppercase;
     padding-top: 10px;
     padding-left: 30px;
@@ -67,7 +69,8 @@ input {
 }
 
 footer {
-    background-color: #da9bc5;
+    background-color: #C6AD94;
     text-transform: uppercase;
-    padding-bottom: 5px;
+    padding-bottom: 2px;
+    width: 1290px;
 }
